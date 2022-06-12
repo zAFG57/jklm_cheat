@@ -13,6 +13,8 @@ vous il suffit de copier les lettres puis d'appuyer sur la bar espace. le cheat 
 
 les mots choisit sont toujours les mots de la langue française les plus long qui contiennent les lettres sélectionnées et qui n'on pas encore étées sélectionnées.
 
+pour quiter le cheat, vous pouvez soit fermer la fenttre que le cheat à ouvert comme tout programe ou alors copier le mots stop puis apuiller sur la barre espace.
+
 enfin, ce cheat peut être facilement adapter au lang étrangère, pour cela il suffit d'échanger le fichier words3.txt avec un fichier du même nom contenant l'entièreter des mots de la langue en question.
 
 
